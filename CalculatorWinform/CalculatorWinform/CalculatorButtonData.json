@@ -1,0 +1,502 @@
+﻿[
+  {
+    "KeyDisplaySymbol": "%",
+    "KeyValue": "%",
+    "KeyName": "ButtonPercentage",
+    "KeyLocation": "0,0",
+    "ForeColor": "0,0,0",
+    "BackColor": "223,224,224",
+    "KeyType": "Operator",
+    "CalculatorType": "Basic"
+  },
+  {
+    "KeyDisplaySymbol": "C",
+    "KeyValue": "C",
+    "KeyName": "ClearGlobal",
+    "KeyLocation": "0,1",
+    "ForeColor": "0,0,0",
+    "BackColor": "223,224,224",
+    "KeyType": "Operator",
+    "CalculatorType": "Basic"
+  },
+  {
+    "KeyDisplaySymbol": "CE",
+    "KeyValue": "CE",
+    "KeyName": "ClearEntry",
+    "KeyLocation": "0,2",
+    "ForeColor": "0,0,0",
+    "BackColor": "223,224,224",
+    "KeyType": "Operator",
+    "CalculatorType": "Basic"
+  },
+  {
+    "KeyDisplaySymbol": "🡠",
+    "KeyValue": "🡠",
+    "KeyName": "Backspace",
+    "KeyLocation": "0,3",
+    "ForeColor": "0,0,0",
+    "BackColor": "223,224,224",
+    "KeyType": "Operator",
+    "CalculatorType": "Basic"
+  },
+  {
+    "KeyDisplaySymbol": "7",
+    "KeyValue": "7",
+    "KeyName": "Button7",
+    "KeyLocation": "1,0",
+    "ForeColor": "0,0,0",
+    "BackColor": "255,255,255",
+    "KeyType": "Operand",
+    "CalculatorType": "Basic"
+  },
+  {
+    "KeyDisplaySymbol": "8",
+    "KeyValue": "8",
+    "KeyName": "Button8",
+    "KeyLocation": "1,1",
+    "ForeColor": "0,0,0",
+    "BackColor": "255,255,255",
+    "KeyType": "Operand",
+    "CalculatorType": "Basic"
+  },
+  {
+    "KeyDisplaySymbol": "9",
+    "KeyValue": "9",
+    "KeyName": "Button9",
+    "KeyLocation": "1,2",
+    "ForeColor": "0,0,0",
+    "BackColor": "255,255,255",
+    "KeyType": "Operand",
+    "CalculatorType": "Basic"
+  },
+  {
+    "KeyDisplaySymbol": "÷",
+    "KeyValue": "/",
+    "KeyName": "ButtonDivide",
+    "KeyLocation": "1,3",
+    "ForeColor": "0,0,0",
+    "BackColor": "223,224,224",
+    "KeyType": "Operator",
+    "CalculatorType": "Basic"
+  },
+  {
+    "KeyDisplaySymbol": "4",
+    "KeyValue": "4",
+    "KeyName": "Button4",
+    "KeyLocation": "2,0",
+    "ForeColor": "0,0,0",
+    "BackColor": "255,255,255",
+    "KeyType": "Operand",
+    "CalculatorType": "Basic"
+  },
+  {
+    "KeyDisplaySymbol": "5",
+    "KeyValue": "5",
+    "KeyName": "Button5",
+    "KeyLocation": "2,1",
+    "ForeColor": "0,0,0",
+    "BackColor": "255,255,255",
+    "KeyType": "Operand",
+    "CalculatorType": "Basic"
+  },
+  {
+    "KeyDisplaySymbol": "6",
+    "KeyValue": "6",
+    "KeyName": "Button6",
+    "KeyLocation": "2,2",
+    "ForeColor": "0,0,0",
+    "BackColor": "255,255,255",
+    "KeyType": "Operand",
+    "CalculatorType": "Basic"
+  },
+  {
+    "KeyDisplaySymbol": "×",
+    "KeyValue": "*",
+    "KeyName": "ButtonMultiply",
+    "KeyLocation": "2,3",
+    "ForeColor": "0,0,0",
+    "BackColor": "223,224,224",
+    "KeyType": "Operator",
+    "CalculatorType": "Basic"
+  },
+  {
+    "KeyDisplaySymbol": "1",
+    "KeyValue": "1",
+    "KeyName": "Button1",
+    "KeyLocation": "3,0",
+    "ForeColor": "0,0,0",
+    "BackColor": "255,255,255",
+    "KeyType": "Operand",
+    "CalculatorType": "Basic"
+  },
+  {
+    "KeyDisplaySymbol": "2",
+    "KeyValue": "2",
+    "KeyName": "Button2",
+    "KeyLocation": "3,1",
+    "ForeColor": "0,0,0",
+    "BackColor": "255,255,255",
+    "KeyType": "Operand",
+    "CalculatorType": "Basic"
+  },
+  {
+    "KeyDisplaySymbol": "3",
+    "KeyValue": "3",
+    "KeyName": "Button3",
+    "KeyLocation": "3,2",
+    "ForeColor": "0,0,0",
+    "BackColor": "255,255,255",
+    "KeyType": "Operand",
+    "CalculatorType": "Basic"
+  },
+  {
+    "KeyDisplaySymbol": "-",
+    "KeyValue": "-",
+    "KeyName": "ButtonSubtract",
+    "KeyLocation": "3,3",
+    "ForeColor": "0,0,0",
+    "BackColor": "223,224,224",
+    "KeyType": "Operator",
+    "CalculatorType": "Basic"
+  },
+  {
+    "KeyDisplaySymbol": ".",
+    "KeyValue": ".",
+    "KeyName": "ButtonPeriod",
+    "KeyLocation": "4,0",
+    "ForeColor": "0,0,0",
+    "BackColor": "223,224,224",
+    "CalculatorType": "Basic",
+    "KeyType": "Operator"
+  },
+  {
+    "KeyDisplaySymbol": "0",
+    "KeyValue": "0",
+    "KeyName": "Button0",
+    "KeyLocation": "4,1",
+    "ForeColor": "0,0,0",
+    "BackColor": "255,255,255",
+    "KeyType": "Operand",
+    "CalculatorType": "Basic"
+  },
+  {
+    "KeyDisplaySymbol": "=",
+    "KeyValue": "=",
+    "KeyName": "ButtonEqual",
+    "KeyLocation": "4,2",
+    "ForeColor": "223,224,224",
+    "BackColor": "15, 82, 186",
+    "KeyType": "Operator",
+    "CalculatorType": "Basic"
+  },
+  {
+    "KeyDisplaySymbol": "+",
+    "KeyValue": "+",
+    "KeyName": "ButtonAdd",
+    "KeyLocation": "4,3",
+    "ForeColor": "0,0,0",
+    "BackColor": "223,224,224",
+    "KeyType": "Operator",
+    "CalculatorType": "Basic"
+  },
+  {
+    "KeyDisplaySymbol": "C",
+    "KeyValue": "C",
+    "KeyName": "ClearGlobal",
+    "KeyLocation": "0,3",
+    "ForeColor": "0,0,0",
+    "BackColor": "223,224,224",
+    "KeyType": "Operator",
+    "CalculatorType": "Advance"
+  },
+  {
+    "KeyDisplaySymbol": "CE",
+    "KeyValue": "CE",
+    "KeyName": "ClearEntry",
+    "KeyLocation": "0,2",
+    "ForeColor": "0,0,0",
+    "BackColor": "223,224,224",
+    "KeyType": "Operator",
+    "CalculatorType": "Advance"
+  },
+  {
+    "KeyDisplaySymbol": "±",
+    "KeyValue": "±",
+    "KeyName": "Unary",
+    "KeyLocation": "0,1",
+    "ForeColor": "0,0,0",
+    "BackColor": "223,224,224",
+    "KeyType": "Operator",
+    "CalculatorType": "Advance"
+  },
+  {
+    "KeyDisplaySymbol": "^",
+    "KeyValue": "^",
+    "KeyName": "Exponent",
+    "KeyLocation": "0,0",
+    "ForeColor": "0,0,0",
+    "BackColor": "223,224,224",
+    "KeyType": "Operator",
+    "CalculatorType": "Advance"
+  },
+  {
+    "KeyDisplaySymbol": "%",
+    "KeyValue": "%",
+    "KeyName": "ButtonPercentage",
+    "KeyLocation": "1,1",
+    "ForeColor": "0,0,0",
+    "BackColor": "223,224,224",
+    "KeyType": "Operator",
+    "CalculatorType": "Advance"
+  },
+  {
+    "KeyDisplaySymbol": "Tan",
+    "KeyValue": "Tan",
+    "KeyName": "Tan",
+    "KeyLocation": "1,4",
+    "ForeColor": "0,0,0",
+    "BackColor": "223,224,224",
+    "KeyType": "Operator",
+    "CalculatorType": "Advance"
+  },
+  {
+    "KeyDisplaySymbol": "Cos",
+    "KeyValue": "Cos",
+    "KeyName": "Cos",
+    "KeyLocation": "1,2",
+    "ForeColor": "0,0,0",
+    "BackColor": "223,224,224",
+    "KeyType": "Operator",
+    "CalculatorType": "Advance"
+  },
+  {
+    "KeyDisplaySymbol": "Sin",
+    "KeyValue": "Sin",
+    "KeyName": "Sin",
+    "KeyLocation": "1,3",
+    "ForeColor": "0,0,0",
+    "BackColor": "223,224,224",
+    "KeyType": "Operator",
+    "CalculatorType": "Advance"
+  },
+  {
+    "KeyDisplaySymbol": "🡠",
+    "KeyValue": "🡠",
+    "KeyName": "Backspace",
+    "KeyLocation": "0,4",
+    "ForeColor": "0,0,0",
+    "BackColor": "223,224,224",
+    "KeyType": "Operator",
+    "CalculatorType": "Advance"
+  },
+  {
+    "KeyDisplaySymbol": "÷",
+    "KeyValue": "/",
+    "KeyName": "ButtonDivide",
+    "KeyLocation": "1,0",
+    "ForeColor": "0,0,0",
+    "BackColor": "223,224,224",
+    "KeyType": "Operator",
+    "CalculatorType": "Advance"
+  },
+  {
+    "KeyDisplaySymbol": "7",
+    "KeyValue": "7",
+    "KeyName": "Button7",
+    "KeyLocation": "2,1",
+    "ForeColor": "0,0,0",
+    "BackColor": "255,255,255",
+    "KeyType": "Operand",
+    "CalculatorType": "Advance"
+  },
+  {
+    "KeyDisplaySymbol": "8",
+    "KeyValue": "8",
+    "KeyName": "Button8",
+    "KeyLocation": "2,2",
+    "ForeColor": "0,0,0",
+    "BackColor": "255,255,255",
+    "KeyType": "Operand",
+    "CalculatorType": "Advance"
+  },
+  {
+    "KeyDisplaySymbol": "9",
+    "KeyValue": "9",
+    "KeyName": "Button9",
+    "KeyLocation": "2,3",
+    "ForeColor": "0,0,0",
+    "BackColor": "255,255,255",
+    "KeyType": "Operand",
+    "CalculatorType": "Advance"
+  },
+  {
+    "KeyDisplaySymbol": "Log",
+    "KeyValue": "Log",
+    "KeyName": "Log",
+    "KeyLocation": "2,4",
+    "ForeColor": "0,0,0",
+    "BackColor": "223,224,224",
+    "KeyType": "Operator",
+    "CalculatorType": "Advance"
+  },
+  {
+    "KeyDisplaySymbol": "×",
+    "KeyValue": "*",
+    "KeyName": "ButtonMultiply",
+    "KeyLocation": "2,0",
+    "ForeColor": "0,0,0",
+    "BackColor": "223,224,224",
+    "KeyType": "Operator",
+    "CalculatorType": "Advance"
+  },
+  {
+    "KeyDisplaySymbol": "4",
+    "KeyValue": "4",
+    "KeyName": "Button4",
+    "KeyLocation": "3,1",
+    "ForeColor": "0,0,0",
+    "BackColor": "255,255,255",
+    "KeyType": "Operand",
+    "CalculatorType": "Advance"
+  },
+  {
+    "KeyDisplaySymbol": "5",
+    "KeyValue": "5",
+    "KeyName": "Button5",
+    "KeyLocation": "3,2",
+    "ForeColor": "0,0,0",
+    "BackColor": "255,255,255",
+    "KeyType": "Operand",
+    "CalculatorType": "Advance"
+  },
+  {
+    "KeyDisplaySymbol": "6",
+    "KeyValue": "6",
+    "KeyName": "Button6",
+    "KeyLocation": "3,3",
+    "ForeColor": "0,0,0",
+    "BackColor": "255,255,255",
+    "KeyType": "Operand",
+    "CalculatorType": "Advance"
+  },
+  {
+    "KeyDisplaySymbol": "Inv",
+    "KeyValue": "Inv",
+    "KeyName": "Inverse",
+    "KeyLocation": "3,4",
+    "ForeColor": "0,0,0",
+    "BackColor": "223,224,224",
+    "KeyType": "Operator",
+    "CalculatorType": "Advance"
+  },
+  {
+    "KeyDisplaySymbol": "-",
+    "KeyValue": "-",
+    "KeyName": "ButtonSubtract",
+    "KeyLocation": "3,0",
+    "ForeColor": "0,0,0",
+    "BackColor": "223,224,224",
+    "KeyType": "Operator",
+    "CalculatorType": "Advance"
+  },
+  {
+    "KeyDisplaySymbol": "1",
+    "KeyValue": "1",
+    "KeyName": "Button1",
+    "KeyLocation": "4,1",
+    "ForeColor": "0,0,0",
+    "BackColor": "255,255,255",
+    "KeyType": "Operand",
+    "CalculatorType": "Advance"
+  },
+  {
+    "KeyDisplaySymbol": "2",
+    "KeyValue": "2",
+    "KeyName": "Button2",
+    "KeyLocation": "4,2",
+    "ForeColor": "0,0,0",
+    "BackColor": "255,255,255",
+    "KeyType": "Operand",
+    "CalculatorType": "Advance"
+  },
+  {
+    "KeyDisplaySymbol": "3",
+    "KeyValue": "3",
+    "KeyName": "Button3",
+    "KeyLocation": "4,3",
+    "ForeColor": "0,0,0",
+    "BackColor": "255,255,255",
+    "KeyType": "Operand",
+    "CalculatorType": "Advance"
+  },
+  {
+    "KeyDisplaySymbol": "√",
+    "KeyValue": "Sqrt",
+    "KeyName": "SquareRoot",
+    "KeyLocation": "4,4",
+    "ForeColor": "0,0,0",
+    "BackColor": "223,224,224",
+    "KeyType": "Operator",
+    "CalculatorType": "Advance"
+  },
+  {
+    "KeyDisplaySymbol": "+",
+    "KeyValue": "+",
+    "KeyName": "ButtonAdd",
+    "KeyLocation": "4,0",
+    "ForeColor": "0,0,0",
+    "BackColor": "223,224,224",
+    "KeyType": "Operator",
+    "CalculatorType": "Advance"
+  },
+  {
+    "KeyDisplaySymbol": ".",
+    "KeyValue": ".",
+    "KeyName": "ButtonPeriod",
+    "KeyLocation": "5,0",
+    "ForeColor": "0,0,0",
+    "BackColor": "223,224,224",
+    "KeyType": "Operator",
+    "CalculatorType": "Advance"
+  },
+  {
+    "KeyDisplaySymbol": "(",
+    "KeyValue": "(",
+    "KeyName": "ButtonOpenBracket",
+    "KeyLocation": "5,1",
+    "ForeColor": "0,0,0",
+    "BackColor": "223,224,224",
+    "KeyType": "Operator",
+    "CalculatorType": "Advance"
+  },
+  {
+    "KeyDisplaySymbol": "0",
+    "KeyValue": "0",
+    "KeyName": "Button0",
+    "KeyLocation": "5,2",
+    "ForeColor": "0,0,0",
+    "BackColor": "255,255,255",
+    "KeyType": "Operand",
+    "CalculatorType": "Advance"
+  },
+  {
+    "KeyDisplaySymbol": ")",
+    "KeyValue": ")",
+    "KeyName": "ButtonCloseBracket",
+    "KeyLocation": "5,3",
+    "ForeColor": "0,0,0",
+    "BackColor": "223,224,224",
+    "KeyType": "Operator",
+    "CalculatorType": "Advance"
+  },
+  {
+    "KeyDisplaySymbol": "=",
+    "KeyValue": "=",
+    "KeyName": "ButtonEqual",
+    "KeyLocation": "5,4",
+    "ForeColor": "223,224,224",
+    "BackColor": "15, 82, 186",
+    "KeyType": "Operator",
+    "CalculatorType": "Advance"
+  }
+] 

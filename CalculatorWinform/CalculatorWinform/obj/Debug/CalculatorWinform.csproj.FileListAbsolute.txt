@@ -1,0 +1,16 @@
+C:\Users\SURBHI SINHA\source\repos\Calculator\Calculator Application\CalculatorWinform\CalculatorWinform\bin\Debug\CalculatorWinform.exe.config
+C:\Users\SURBHI SINHA\source\repos\Calculator\Calculator Application\CalculatorWinform\CalculatorWinform\bin\Debug\CalculatorWinform.exe
+C:\Users\SURBHI SINHA\source\repos\Calculator\Calculator Application\CalculatorWinform\CalculatorWinform\bin\Debug\CalculatorWinform.pdb
+C:\Users\SURBHI SINHA\source\repos\Calculator\Calculator Application\CalculatorWinform\CalculatorWinform\bin\Debug\desktop_calculator.dll
+C:\Users\SURBHI SINHA\source\repos\Calculator\Calculator Application\CalculatorWinform\CalculatorWinform\bin\Debug\Newtonsoft.Json.dll
+C:\Users\SURBHI SINHA\source\repos\Calculator\Calculator Application\CalculatorWinform\CalculatorWinform\bin\Debug\desktop_calculator.pdb
+C:\Users\SURBHI SINHA\source\repos\Calculator\Calculator Application\CalculatorWinform\CalculatorWinform\bin\Debug\Newtonsoft.Json.xml
+C:\Users\SURBHI SINHA\source\repos\Calculator\Calculator Application\CalculatorWinform\CalculatorWinform\obj\Debug\CalculatorWinform.csproj.AssemblyReference.cache
+C:\Users\SURBHI SINHA\source\repos\Calculator\Calculator Application\CalculatorWinform\CalculatorWinform\obj\Debug\CalculatorWinform.ButtonTextData.resources
+C:\Users\SURBHI SINHA\source\repos\Calculator\Calculator Application\CalculatorWinform\CalculatorWinform\obj\Debug\CalculatorWinform.Properties.Resources.resources
+C:\Users\SURBHI SINHA\source\repos\Calculator\Calculator Application\CalculatorWinform\CalculatorWinform\obj\Debug\CalculatorWinform.csproj.GenerateResource.cache
+C:\Users\SURBHI SINHA\source\repos\Calculator\Calculator Application\CalculatorWinform\CalculatorWinform\obj\Debug\CalculatorWinform.csproj.CoreCompileInputs.cache
+C:\Users\SURBHI SINHA\source\repos\Calculator\Calculator Application\CalculatorWinform\CalculatorWinform\obj\Debug\CalculatorWinform.csproj.CopyComplete
+C:\Users\SURBHI SINHA\source\repos\Calculator\Calculator Application\CalculatorWinform\CalculatorWinform\obj\Debug\CalculatorWinform.exe
+C:\Users\SURBHI SINHA\source\repos\Calculator\Calculator Application\CalculatorWinform\CalculatorWinform\obj\Debug\CalculatorWinform.pdb
+C:\Users\SURBHI SINHA\source\repos\Calculator\Calculator Application\CalculatorWinform\CalculatorWinform\bin\Debug\CalculatorButtonData.json

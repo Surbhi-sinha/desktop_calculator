@@ -1,0 +1,10 @@
+C:\Users\SURBHI SINHA\source\repos\Calculator\Calculator Application\desktop_calculator\Desktop_calculator_testconsole\bin\Debug\Desktop_calculator_testconsole.exe.config
+C:\Users\SURBHI SINHA\source\repos\Calculator\Calculator Application\desktop_calculator\Desktop_calculator_testconsole\bin\Debug\Desktop_calculator_testconsole.exe
+C:\Users\SURBHI SINHA\source\repos\Calculator\Calculator Application\desktop_calculator\Desktop_calculator_testconsole\bin\Debug\Desktop_calculator_testconsole.pdb
+C:\Users\SURBHI SINHA\source\repos\Calculator\Calculator Application\desktop_calculator\Desktop_calculator_testconsole\bin\Debug\desktop_calculator.dll
+C:\Users\SURBHI SINHA\source\repos\Calculator\Calculator Application\desktop_calculator\Desktop_calculator_testconsole\bin\Debug\desktop_calculator.pdb
+C:\Users\SURBHI SINHA\source\repos\Calculator\Calculator Application\desktop_calculator\Desktop_calculator_testconsole\obj\Debug\Desktop_calculator_testconsole.csproj.AssemblyReference.cache
+C:\Users\SURBHI SINHA\source\repos\Calculator\Calculator Application\desktop_calculator\Desktop_calculator_testconsole\obj\Debug\Desktop_calculator_testconsole.csproj.CoreCompileInputs.cache
+C:\Users\SURBHI SINHA\source\repos\Calculator\Calculator Application\desktop_calculator\Desktop_calculator_testconsole\obj\Debug\Desktop_calculator_testconsole.csproj.CopyComplete
+C:\Users\SURBHI SINHA\source\repos\Calculator\Calculator Application\desktop_calculator\Desktop_calculator_testconsole\obj\Debug\Desktop_calculator_testconsole.exe
+C:\Users\SURBHI SINHA\source\repos\Calculator\Calculator Application\desktop_calculator\Desktop_calculator_testconsole\obj\Debug\Desktop_calculator_testconsole.pdb

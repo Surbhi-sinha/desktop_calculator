@@ -1,0 +1,24 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="CalculatorWinform.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="BorderSize" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="Font" Type="System.Drawing.Font" Scope="User">
+      <Value Profile="(Default)">Arial Narrow, 12pt, style=Bold</Value>
+    </Setting>
+    <Setting Name="FlatStyle" Type="System.Windows.Forms.FlatStyle" Scope="User">
+      <Value Profile="(Default)">Flat</Value>
+    </Setting>
+    <Setting Name="CalculatorTextBoxFont" Type="System.Drawing.Font" Scope="User">
+      <Value Profile="(Default)">Arial Narrow, 25.8000011pt, style=Bold</Value>
+    </Setting>
+    <Setting Name="MemoryLabelText" Type="System.Drawing.Font" Scope="User">
+      <Value Profile="(Default)">Arial Narrow, 15pt</Value>
+    </Setting>
+    <Setting Name="MenuItemFont" Type="System.Drawing.Font" Scope="User">
+      <Value Profile="(Default)">Arial Narrow, 10.2pt</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

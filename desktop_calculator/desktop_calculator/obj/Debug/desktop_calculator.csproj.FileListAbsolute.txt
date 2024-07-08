@@ -1,0 +1,9 @@
+C:\Users\SURBHI SINHA\source\repos\Calculator\Calculator Application\desktop_calculator\desktop_calculator\bin\Debug\desktop_calculator.dll
+C:\Users\SURBHI SINHA\source\repos\Calculator\Calculator Application\desktop_calculator\desktop_calculator\bin\Debug\desktop_calculator.pdb
+C:\Users\SURBHI SINHA\source\repos\Calculator\Calculator Application\desktop_calculator\desktop_calculator\obj\Debug\desktop_calculator.csproj.AssemblyReference.cache
+C:\Users\SURBHI SINHA\source\repos\Calculator\Calculator Application\desktop_calculator\desktop_calculator\obj\Debug\desktop_calculator.ExceptionStrings.resources
+C:\Users\SURBHI SINHA\source\repos\Calculator\Calculator Application\desktop_calculator\desktop_calculator\obj\Debug\desktop_calculator.Tokens.resources
+C:\Users\SURBHI SINHA\source\repos\Calculator\Calculator Application\desktop_calculator\desktop_calculator\obj\Debug\desktop_calculator.csproj.GenerateResource.cache
+C:\Users\SURBHI SINHA\source\repos\Calculator\Calculator Application\desktop_calculator\desktop_calculator\obj\Debug\desktop_calculator.csproj.CoreCompileInputs.cache
+C:\Users\SURBHI SINHA\source\repos\Calculator\Calculator Application\desktop_calculator\desktop_calculator\obj\Debug\desktop_calculator.dll
+C:\Users\SURBHI SINHA\source\repos\Calculator\Calculator Application\desktop_calculator\desktop_calculator\obj\Debug\desktop_calculator.pdb
