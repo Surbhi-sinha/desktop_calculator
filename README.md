@@ -1,5 +1,12 @@
 <H1>Desktop Calculator</H1>
 
+
+
+<img src="https://github.com/user-attachments/assets/e7ed2f1b-9fe8-4b59-aecb-9905ad96b1fd" height=600 width=500>  
+
+
+
+
 ### **1. Windows Forms UI Design**  
 - **Form Design:**  
   Designed an intuitive graphical user interface using Windows Forms. This involved laying out buttons for digits (0–9), arithmetic operations (addition, subtraction, multiplication, division), and advanced functions like percentage or square root. The design also included a display textbox for users to input expressions and view results.  
